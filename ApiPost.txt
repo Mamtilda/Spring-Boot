@@ -1,0 +1,44 @@
+Employees List: [
+    {
+        "id": 1,
+        "firstname": "Mike",
+        "lastname": "Smith",
+        "age": 25,
+        "job title": "Software developer"
+    },
+    {
+        "id": 2,
+        "firstname": "Kelly",
+        "lastname": "Robinson",
+        "age": 30,
+        "job title": "Accountant"
+    },
+    {
+        "id": 3,
+        "firstname": "Fiona",
+        "lastname": "Anderson",
+        "age": 22,
+        "job title": "Sales Assistant"
+    },
+    {
+        "id": 4,
+        "firstname": "Michelle",
+        "lastname": "Lewis",
+        "age": 26,
+        "job title": "HR Manager"
+    },
+    {
+        "id": 5,
+        "firstname": "Luke",
+        "lastname": "Johnson",
+        "age": 35,
+        "job title": "CEO"
+    },
+    {
+        "id": 6,
+        "firstname": "Wayne",
+        "lastname": "Smith",
+        "age": 27,
+        "job title": "IT Support Engineer"
+    }
+]
